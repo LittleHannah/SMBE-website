@@ -50,7 +50,7 @@
       <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
         <div class="feature col">
           <h3 class="fs-2">Programme</h3>
-          <p>Full programme available soon</p>
+          <p>2023/10/20 15:00PM -  2023/10/22 15:00PM. Full programme available soon</p>
           <button type="button" class="btn btn-outline-primary" disabled>View PDF</button>
         </div>
         <div class="feature col">

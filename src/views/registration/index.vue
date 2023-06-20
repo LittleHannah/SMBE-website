@@ -5,10 +5,19 @@
     <div class="alert alert-success" role="alert">
       <h2 class="alert-heading">All participants must register!</h2>
       <ul style="font-weight: 650; font-size: 1.2rem">
+
         <li>Registration Date: 01/06/23 - 10/10/23</li>
         <li>Registration Fee: 800 RMB / each person</li>
       </ul>
+      <h2>Registration Details</h2>
+      <p>
+        Send the email to <b>jlchen@ips.ac.cn</b> with your name and current employer to register,
+        and then you will get conference registration fee collection account.
+        Selected abstracts and posters will be offered free registration,
+        so we welcome abstracts and posters.
+      </p>
     </div>
+
     <p>Due to the large interest in the meeting and the capacity of the venue we had to introduce a cap to registrations.</p>
     <p>In-person attendance was possible only for <b>a maximum of 200 people</b>.</p>
     <p>Attention: If the registration reaches the maximum, we will close the registration in advance.</p>

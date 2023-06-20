@@ -1,6 +1,6 @@
 <template>
   <div class="container" style="padding: 2rem">
-    <h1>SPEAKERS</h1>
+    <h1>PLENARY SPEAKERS</h1>
     <hr class="hr">
     <div class="card mb-3" style="height: 300px;margin-bottom: 2rem" v-for="s in speakers" v-bind:key="s.name">
       <div class="row g-0">

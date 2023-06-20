@@ -9,28 +9,28 @@
           <div class="timeline-step">
             <div class="timeline-content" data-toggle="popover" data-trigger="hover" data-placement="top" title="" data-content="And here's some amazing content. It's very engaging. Right?" data-original-title="2003">
               <div class="inner-circle"></div>
-              <p class="h2 mt-3 mb-1" style="letter-spacing: 3px">10/06/23</p>
+              <p class="h2 mt-3 mb-1" style="letter-spacing: 3px">06/26/23</p>
               <p class="h6 text-muted mb-0 mb-lg-0">Opening of the Abstract Submission</p>
             </div>
           </div>
           <div class="timeline-step">
             <div class="timeline-content" data-toggle="popover" data-trigger="hover" data-placement="top" title="" data-content="And here's some amazing content. It's very engaging. Right?" data-original-title="2004">
               <div class="inner-circle"></div>
-              <p class="h2 mt-3 mb-1" style="letter-spacing: 3px">07/31/23</p>
+              <p class="h2 mt-3 mb-1" style="letter-spacing: 3px">08/31/23</p>
               <p class="h6 text-muted mb-0 mb-lg-0">Deadline for Abstract Submission</p>
             </div>
           </div>
           <div class="timeline-step">
             <div class="timeline-content" data-toggle="popover" data-trigger="hover" data-placement="top" title="" data-content="And here's some amazing content. It's very engaging. Right?" data-original-title="2005">
               <div class="inner-circle"></div>
-              <p class="h2 mt-3 mb-1" style="letter-spacing: 3px">31/08/23</p>
+              <p class="h2 mt-3 mb-1" style="letter-spacing: 3px">09/15/23</p>
               <p class="h6 text-muted mb-0 mb-lg-0">Applicants notified of talk decisions</p>
             </div>
           </div>
           <div class="timeline-step">
             <div class="timeline-content" data-toggle="popover" data-trigger="hover" data-placement="top" title="" data-content="And here's some amazing content. It's very engaging. Right?" data-original-title="2010">
               <div class="inner-circle"></div>
-              <p class="h2 mt-3 mb-1" style="letter-spacing: 3px">31/09/23</p>
+              <p class="h2 mt-3 mb-1" style="letter-spacing: 3px">09/31/23</p>
               <p class="h6 text-muted mb-0 mb-lg-0">Full programme available</p>
             </div>
           </div>
@@ -40,7 +40,7 @@
     <h2 style="margin-top: 2rem">When submitting your abstract, you will be asked to indicate:</h2>
     <ul style="font-size: 1.2rem">
       <li>Complete name, email address and Current position</li>
-      <li>Preferred means of presentation (oral or poster)</li>
+      <li>Preferred means of presentation: Regular talk (15 minutes + 5 mins questions), Short talk (8 minutes + 2 minutes questions) or Poster.</li>
       <li>Including conclusions or results</li>
     </ul>
     <h2 style="margin-top: 2rem">Abstracts must not exceed 250 words</h2>
