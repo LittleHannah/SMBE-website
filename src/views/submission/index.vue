@@ -45,6 +45,14 @@
     </ul>
     <h2 style="margin-top: 2rem">Abstracts must not exceed 250 words</h2>
     <h2 style="margin-top: 2rem">The poster size must be 100 (height) x 70 (width) cm</h2>
+    <h2 style="margin-top: 2rem">E-mail</h2>
+    <div style="vertical-align: center;display: flex">
+      <p style="margin:0;text-decoration: underline;color: #2942DA;line-height: 32px;vertical-align: center;padding-right: 5px">jlchen@ips.ac.cn</p>
+      <p style="margin:0;line-height: 32px;vertical-align: center;padding-top: 4px">
+        <embed :src="require('@/assets/svg/email.svg')" type="image/svg+xml" style="width: 1.4rem;padding-top: 2px;vertical-align: center" />
+      </p>
+    </div>
+
   </div>
 </template>
 

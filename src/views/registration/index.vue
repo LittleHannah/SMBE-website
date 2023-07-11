@@ -13,7 +13,7 @@
       <p>
         Send the email to <b>jlchen@ips.ac.cn</b> with your name and current employer to register,
         and then you will get conference registration fee collection account.
-        Selected abstracts and posters will be offered free registration,
+        Submitting abstracts and posters will be offered free registration,
         so we welcome abstracts and posters.
       </p>
     </div>

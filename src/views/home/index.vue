@@ -42,7 +42,7 @@
           The Society for Molecular Biology and Evolution (SMBE) is an international organization whose goals are to provide facilities for association and communication among molecular evolutionists and to further the goals of molecular evolution, as well as its practitioners and teachers. <b>Now, SMBE Regional Meeting comes to Shanghai!</b>
         </p>
         <p style="font-size: 1.3rem">
-          This is an opportunity for researchers <b>of all levels of seniority, in all areas of evolutionary genetics</b> to present their work and to meet other researchers. There will be dedicated speaker slots available for students, postdocs, research staff and faculty, with prizes given to the best student and postdoc talks and posters. <b>Thanks to the generous support from SMBE, registration will be free for all those submitting an abstract for presentation.</b>
+          This is an opportunity for researchers <b>of all levels of seniority, in all areas of evolutionary genetics</b> to present their work and to meet other researchers. There will be dedicated speaker slots available for students, postdocs, research staff and faculty, with prizes given to the best student and postdoc talks and posters. <b>Thanks to the generous support from SMBE, registration will be free for all those submitting a poster or an abstract for presentation.</b>
         </p>
       </div>
     </div>
