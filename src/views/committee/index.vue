@@ -71,13 +71,14 @@ export default {
       members: [
         { name: 'Kai Ye', institute: 'Xi’an Jiaotong University', email: 'kaiye@xjtu.edu.cn', link: 'http://www.xjtu.edu.cn/jsnr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1632&wbwbxjtuteacherid=1992', img: require('@/assets/img/committee/4.png') },
         { name: 'Jian Lu', institute: 'School of Life Sciences, Peking University', email: 'LUJ@pku.edu.cn', link: 'https://bio.pku.edu.cn/homes/Index/news_cont_jl/17/46.html', img: require('@/assets/img/committee/5.png') },
-        { name: 'Hua Chen', institute: 'Beijing Institute of Genomics, CAS', email: 'chenh@big.ac.cn', link: 'http://www.big.ac.cn/sourcedb_big_cas/zw/zjrc/yjy/201506/t20150630_4381456.html', img: require('@/assets/img/committee/6.png') },
+        { name: 'Hua Chen', institute: 'Beijing Institute of Genomics, Chinese Academy of Sciences', email: 'chenh@big.ac.cn', link: 'http://www.big.ac.cn/sourcedb_big_cas/zw/zjrc/yjy/201506/t20150630_4381456.html', img: require('@/assets/img/committee/6.png') },
         { name: 'Chaolong Wang', institute: 'Huazhong University of Science and Technology', email: 'chaolong@hust.edu.cn', link: 'http://gwxy.tjmu.edu.cn/info/1016/1373.htm', img: require('@/assets/img/committee/7.png') },
-        { name: 'Xuemei Lu', institute: 'Kunming Institute of Zoology, CAS', email: 'xuemeilu@mail.kiz.ac.cn', link: 'https://people.ucas.edu.cn/~3979404', img: require('@/assets/img/committee/8.png') },
+        { name: 'Xuemei Lu', institute: 'Kunming Institute of Zoology, Chinese Academy of Sciences', email: 'xuemeilu@mail.kiz.ac.cn', link: 'https://people.ucas.edu.cn/~3979404', img: require('@/assets/img/committee/8.png') },
+        { name: 'Weiwei Zhai', institute: 'Institute of Zoology, Chinese Academy of Sciences', email: 'weiweizhai@ioz.ac.cn', img: require('@/assets/img/committee/9.jpeg'), link: '' }
       ],
       organizers: [
-        { name: 'Daniel Falush', institute: 'Institute Pasteur Shanghai, CAS', email: 'daniel.falush@ips.ac.cn', link: "http://sourcedb.shanghaipasteur.cas.cn/zw/kydw/yjzz/201911/t20191119_5438491.html", img: require('@/assets/img/committee/1.png') },
-        { name: 'Jialu Chen', institute: 'Institute Pasteur Shanghai, CAS', email: 'jlchen@ips.ac.cn', link: '', img: require('@/assets/img/committee/2.png') },
+        { name: 'Daniel Falush', institute: 'Shanghai Institute of Immunity and Infection, Chinese Academy of Sciences', email: 'daniel.falush@ips.ac.cn', link: "http://sourcedb.shanghaipasteur.cas.cn/zw/kydw/yjzz/201911/t20191119_5438491.html", img: require('@/assets/img/committee/1.png') },
+        { name: 'Jialu Chen', institute: 'Shanghai Institute of Immunity and Infection, Chinese Academy of Sciences', email: 'jlchen@ips.ac.cn', link: '', img: require('@/assets/img/committee/2.png') },
       ],
       organizers1: [
         { name: 'Shuhua Xu', institute: 'Center for Evolutionary Biology, Fudan University', email: 'xushua@fudan.edu.cn', link: 'https://homo.fudan.edu.cn/b6/18/c18452a177688/page.htm', img: require('@/assets/img/committee/3.png') },
