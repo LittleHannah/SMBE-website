@@ -16,7 +16,7 @@
           <div class="timeline-step">
             <div class="timeline-content" data-toggle="popover" data-trigger="hover" data-placement="top" title="" data-content="And here's some amazing content. It's very engaging. Right?" data-original-title="2004">
               <div class="inner-circle"></div>
-              <p class="h2 mt-3 mb-1" style="letter-spacing: 3px">08/31/23</p>
+              <p class="h2 mt-3 mb-1" style="letter-spacing: 3px">09/11/23</p>
               <p class="h6 text-muted mb-0 mb-lg-0">Deadline for Abstract Submission</p>
             </div>
           </div>
